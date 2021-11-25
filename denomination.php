@@ -1,4 +1,8 @@
 <html>
+<head>
+  <title>PHP Denomination Indonesia</title>
+</head>
+
 <body>
 <?php
 
